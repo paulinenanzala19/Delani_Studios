@@ -94,6 +94,11 @@
 .product{
     text-align: center;
 }
+.portfolio h2{
+    text-align: center;
+    margin-top: 2%;
+
+}
 .row1{
     display: flex;
     /* border: 1px solid red; */
