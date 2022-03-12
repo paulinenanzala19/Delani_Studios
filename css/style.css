@@ -41,3 +41,21 @@
     line-height: 2.5;
     margin-bottom: 5%;
 }
+.services{
+    background-image: url("../assets/backgrounds/s_image.jpg");
+}
+.services h1{
+    text-align: center;
+    margin-top: 5%;
+    border: 1px solid red;
+    padding-top: 9%;
+   font-size: 25px;
+    
+  
+}
+.services p{
+    text-align: center;
+    line-height: 2.5;
+   border: 1px solid white;
+   padding-bottom: 10%;
+   
