@@ -93,6 +93,16 @@
 }
 .product{
     text-align: center;
-
-
+}
+.row1{
+    display: flex;
+    
+}
+.card{
+    border: none;
+}
+.row1 img{
+    
+    width: 20vw;
+    height: 30vh;
 }
