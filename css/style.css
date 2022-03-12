@@ -131,3 +131,42 @@
     /* margin: 2%; */
 
 }
+.inputs{
+    display:flex;
+    width: 60%;
+    margin-left: 20%;
+    background-color: transparent;
+}
+#name{
+    background-color: transparent;
+   
+}
+#email{
+    margin-left: 7%;
+    background-color: transparent;
+    
+}
+.message{
+    width: 55%;
+    margin-left: 25%;
+    padding-bottom: 15%;
+    /* border: 1px solid red; */
+    
+}
+#message{
+    padding-top: 5%;
+    padding-bottom: 20%;
+    background-color: transparent;
+    
+}
+
+.contact h2{
+    text-align: center;
+    color: white;
+    border: 1px solid white;
+    padding-top: 4%;
+    padding-bottom: 2%;
+}
+.contact{
+    background-image:url("../assets/backgrounds/c_image.jpg");
+}
