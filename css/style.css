@@ -47,15 +47,15 @@
 .services h1{
     text-align: center;
     margin-top: 5%;
-    border: 1px solid red;
     padding-top: 9%;
    font-size: 25px;
+   color: white;
     
   
 }
 .services p{
     text-align: center;
     line-height: 2.5;
-   border: 1px solid white;
    padding-bottom: 10%;
-   
+   color: white;
+}
