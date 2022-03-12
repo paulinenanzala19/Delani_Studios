@@ -60,11 +60,19 @@
    color: white;
 }
 .column{
-    border: 1px solid red;
-    margin-top: 7%;
+    /* border: 1px solid red; */
+    margin-top: 2%;
     display: flex;
-    width: 80%;
+    width: 70%;
     justify-content: space-around;
+    margin-left: 15%;
+    margin-right: 10%;
+}
+.row h1{
+    /* border: 1px solid red; */
+    width: 100%;
+    text-align: center;
+   
 }
 .design{
     text-align: center;
@@ -74,13 +82,12 @@
     /* margin-left: 10%; */
     align-content: center;
 }
-.development{
-    border: 1px solid black;
+.development{ 
     margin-left: 5%;
   text-align: center;
 }
 #product{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     align-content: center;
    
 }
