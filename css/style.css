@@ -96,6 +96,11 @@
 }
 .row1{
     display: flex;
+    /* border: 1px solid red; */
+    width: 90%;
+    justify-content: space-around;
+    margin-left: 5%;
+    margin-right: 20%;
     
 }
 .card{
@@ -105,4 +110,19 @@
     
     width: 20vw;
     height: 30vh;
+    /* margin: 2%; */
+}
+.row2{
+    display: flex;
+    /* border: 1px solid red; */
+    width: 90%;
+    justify-content: space-around;
+    margin-left: 5%;
+    margin-right: 10%;
+}
+.row2 img{
+    width: 20vw;
+    height: 30vh;
+    /* margin: 2%; */
+
 }
