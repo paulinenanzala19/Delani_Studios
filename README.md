@@ -1,12 +1,16 @@
-# dELANI sTUDIOS
+# Delani Studios
 #### This is a web application that gives an overview of a landing page of a fictional studio 12-03-2022
 #### Pauline Nanzala Wafula
 ## This web application is about delani studio.It gives  an overview of a landing page of a fictional studio.It contains what they do, the portfolios, services and how to contact them.The contacts include your name, email and a small text area for a little description.
 
-<img src="assets/screenshot.png">
+x-special/nautilus-clipboard
+copy
+file:///home/moringa/Pictures/Screenshot.png
+
+
 * clone the repository
 https://github.com/paulinenanzala19/Delani_Studios.git
-* open your terminal and navigate to the folder of application. cd Delani_Studios
+* open your terminal and navigate to the folder of application. cd delani_studios
 * Navigate to file index.html, style.css and script.js
 
  
@@ -19,7 +23,7 @@ Displays Form For Entering name, email and message
  - INPUT: "User's name and email Entered"
  - INPUT: "User's message Entered"
  - OUTPUT: "Displays User's  Name with a message attached
-Displays an Error Message if Date Input and gender are Left Blank
+Displays an Error Message if any input is left blank
  - INPUT: ""
  - OUTPUT: "Displays please fill the fields Message"
 Clears Form and Reset the Message on refreshing the page
