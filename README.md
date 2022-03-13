@@ -3,11 +3,6 @@
 #### Pauline Nanzala Wafula
 ## This web application is about delani studio.It gives  an overview of a landing page of a fictional studio.It contains what they do, the portfolios, services and how to contact them.The contacts include your name, email and a small text area for a little description.
 
-x-special/nautilus-clipboard
-copy
-file:///home/moringa/Pictures/Screenshot.png
-
-
 * clone the repository
 https://github.com/paulinenanzala19/Delani_Studios.git
 * open your terminal and navigate to the folder of application. cd delani_studios
