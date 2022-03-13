@@ -184,3 +184,28 @@
     text-align: center;
     margin-top: 2%;
 }
+.prod{
+    font-size: 80%;
+    display: none;
+}
+.prod h2{
+    font-size: 100%;
+    font-weight: bold;
+}
+.des{
+    font-size: 80%;
+    display: none;
+}
+.des h2{
+    font-size: 100%;
+    font-weight: bold;
+}
+.dev{
+    font-size: 80%;
+    display: none;
+}
+.dev h2{
+    font-size: 100%;
+    font-weight: bold;
+
+}
