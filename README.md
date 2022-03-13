@@ -10,8 +10,9 @@ https://github.com/paulinenanzala19/Delani_Studios.git
 
  
 ## Known Bugs
-* Not any that am aware as at the moment but am open to suggestions and improvement.
+* some parts of the page is not responsive and am open to suggestions and improvement.
 * live link
+https://paulinenanzala19.github.io/Delani_Studios/
  
 ## BDD
 Displays Form For Entering name, email and message
