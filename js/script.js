@@ -1,6 +1,17 @@
 
 $('button#submit').click(function(){
-    alert(myname + 'we have received your message.Thank you for reaching out')
+    let userName=$('input#myname').val()
+    if(userName==""){
+        alert("please fill the required fields")
+    }
+    else {
+        alert(`${userName}, we have received your message.Thank you for reaching out to us`)
+
+    } 
+    $(document).ready(function(){
+        $(":reset").css("background-color", "transparent");
+      });
+   
 });
 $('.design').click(function(){
     $('img#design').toggle()
@@ -15,8 +26,9 @@ $('.product').click(function(){
     $('.prod').toggle()
 })
 $(document).ready(function(){
-    
+     
     $('#work4').mouseover(function(){
+       
         $('#overlay').show() 
     }).mouseout(function(){
         $("#overlay").hide()

@@ -139,22 +139,25 @@
       </div>
       <div class="contact">
         <h2>CONTACT US</h2>
-        <form action="">
+        <form id="form" action="https://formspree.io/f/mnqwzqnk" method="POST">
           <div class="inputs">
             <div class="input-group mb-3">
-              <input type="text"id="myname" class="form-control" placeholder="Name..." aria-label="Name..." aria-describedby="basic-addon1">
+              <!-- <label for="Name">Name</label> -->
+              <input type="text"id="myname" name="Name"class="form-control" placeholder="Name..." aria-label="Name..." aria-describedby="basic-addon1" required>
             </div>
             
             
             <div class="input-group mb-3">
-              <input type="text" id="email" class="form-control" placeholder="Email..." aria-label="Email" aria-describedby="basic-addon2">
+              <!-- <label for="email">Email</label> -->
+              <input type="email" id="email" name="email" class="form-control " placeholder="Email... " aria-label="Email" aria-describedby="basic-addon2" required>
             </div>
           </div>
           <div class="message">
             <div class="input-group mb-3">
-              <input type="text"id="message" class="form-control" placeholder="Your message here..." aria-label="Email" aria-describedby="basic-addon2">
+              <input type="text"id="message" name="text"class="form-control" placeholder="Your message here..." aria-label="Email" aria-describedby="basic-addon2">
             </div>
             <button type="submit" id="submit">submit</button>
+            <input type="reset" value="Reset" id="reset">
   
           </div>
           <!-- <button type="submit" id="submit">submit</button> -->
