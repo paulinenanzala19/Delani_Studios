@@ -137,7 +137,7 @@
     margin-left: 20%;
     background-color: transparent;
 }
-#name{
+#myname{
     background-color: transparent;
     
 }
@@ -196,6 +196,7 @@
 .des{
     font-size: 80%;
     display: none;
+    position: relative;
 }
 .des h2{
     font-size: 100%;
