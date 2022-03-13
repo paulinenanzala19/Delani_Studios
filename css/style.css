@@ -163,10 +163,11 @@
 .contact h2{
     text-align: center;
     color: white;
-    border: 1px solid white;
+    /* border: 1px solid white; */
     padding-top: 4%;
     padding-bottom: 2%;
 }
+
 .contact{
     background-image:url("../assets/backgrounds/c_image.jpg");
 }
