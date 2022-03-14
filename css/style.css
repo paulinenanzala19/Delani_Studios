@@ -31,6 +31,7 @@
     margin-left: 48%;
     margin-top: 12%;
     margin-bottom: 3%;
+   
 }
 .about h1{
     text-align: center;
@@ -141,7 +142,8 @@ input text{
     color: #fff;
     
 }
-::placeholder{
+
+.form-control::placeholder{
     color: #fff;
 }
 #reset{
